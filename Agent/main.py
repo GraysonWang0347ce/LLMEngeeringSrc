@@ -18,4 +18,4 @@ if __name__ == '__main__':
             print("Error: ", e)
             continue
 
-        print("AI: ",res)
+        print("AI: ",res['output'])
